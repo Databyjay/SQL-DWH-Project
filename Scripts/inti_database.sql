@@ -6,7 +6,7 @@ Script Purpose:
     this scrpit creats a new database named DWH by checking whether its already existed or not if exists then it will be 
     dropped & recreated, then it will go creating schemas of 3 named bronze, silver & gold
 
-
+*/
   
   
   
